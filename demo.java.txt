@@ -1,0 +1,6 @@
+Public class demo{
+
+public void doprocess(){
+//logc
+}
+} 
